@@ -1,0 +1,3 @@
+import turtle
+
+yes=turtle()
